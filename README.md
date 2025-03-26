@@ -1,2 +1,2 @@
 # Student_Hibernate
- Student Database System (using Hibernate).
+ Student Management System (using Hibernate).
